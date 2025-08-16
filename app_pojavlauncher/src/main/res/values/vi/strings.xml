@@ -1,0 +1,7 @@
+    <string name="app_name">Ziayzu Launcher (Minecraft: Java Edition cho Android)</string>
+    <string name="app_short_name">Ziayzu Launcher</string>
+    <string name="error_fatal">Ziayzu Launcher bất ngờ gặp sự cố</string>
+    <string name="lazy_service_default_title">Dịch vụ nền Ziayzu</string>
+    <string name="storage_required">Ziayzu Launcher yêu cầu kết nối bộ nhớ ngoài. Vui lòng kết nối lại và khởi động ứng dụng.</string>
+    <string name="modpack_install_notification_title">Trình cài đặt modpack Ziayzu</string>
+    <string name="notification_permission_dialog_text">Ziayzu Launcher cần quyền thông báo để ngăn việc tải game/modpack bị dừng khi bạn rời ứng dụng. Nếu không có quyền này, Android có thể dừng tải khi bạn đưa Ziayzu Launcher về nền.</string>

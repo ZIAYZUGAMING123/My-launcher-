@@ -1,0 +1,7 @@
+    <string name="app_name">Ziayzu Launcher (Minecraft: Java Edition para Android)</string>
+    <string name="app_short_name">Ziayzu Launcher</string>
+    <string name="error_fatal">Ziayzu Launcher apresentou uma falha inesperada</string>
+    <string name="lazy_service_default_title">Serviço em primeiro plano Ziayzu</string>
+    <string name="storage_required">Ziayzu Launcher requer armazenamento externo conectado. Reconecte-o e reinicie o app.</string>
+    <string name="modpack_install_notification_title">Instalador de Modpack Ziayzu</string>
+    <string name="notification_permission_dialog_text">Ziayzu Launcher requer permissão de notificações para evitar que os downloads do jogo/modpack parem quando você sai do app. Sem essa permissão, o Android pode interromper os downloads quando o Ziayzu Launcher estiver em segundo plano.</string>
